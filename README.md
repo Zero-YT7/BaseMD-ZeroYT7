@@ -42,9 +42,9 @@
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/config.js#L4)
-- Owner name [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/config.json#L13)
-- Botname [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L14)
+- Owner number [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/blob/master/options/config.js#L44)
+- Owner name [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/options/config.js#L47)
+- Botname [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/blob/master/options/config.js#L46)
 
 ## ```DONASI```
 
@@ -71,14 +71,14 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
 cd Base-ZeroYT7
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
 cd Base-ZeroYT7
 npm install
 npm start
@@ -91,9 +91,11 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
+git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
 cd Base-ZeroYT7
 npm install
 npm start
 ```
 
+## Big Thanks To
+ ```
