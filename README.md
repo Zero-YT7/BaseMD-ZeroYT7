@@ -72,14 +72,14 @@ pkg install libwebp
 pkg install imagemagick
 pkg install bash
 git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd Base-ZeroYT7
+cd BaseMD-ZeroYT7
 npm install
 npm start
 ```
 ## For Windows
 ```bash
 git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd Base-ZeroYT7
+cd BaseMD-ZeroYT7
 npm install
 npm start
 ```
@@ -92,7 +92,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd Base-ZeroYT7
+cd BaseMD-ZeroYT7
 npm install
 npm start
 ```
