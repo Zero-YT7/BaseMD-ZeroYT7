@@ -42,7 +42,7 @@
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/config.js#L44)
+- Owner number [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/config.js#L4)
 - Owner name [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/options/blob/master/config.json#L13)
 - Botname [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L14)
 
