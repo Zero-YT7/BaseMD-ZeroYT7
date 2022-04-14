@@ -7,7 +7,7 @@
 
 - 👼 My name is Zero YT7
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 19 years old 
 
 - 🔭 I am Not programmer
  
@@ -99,3 +99,12 @@ npm start
 
 ## Big Thanks To
  ```
+• Zero YT7
+• Dhika Ardhiant
+• Mhankbarbar
+• Chaliph
+• Allah S.W.T
+• Ortu
+• All Subscriber Ku
+• All Creator Bot
+```
