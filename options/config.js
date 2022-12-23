@@ -1,11 +1,11 @@
 /* My Info
-* New Base Multi Device By Zero YT7
+* New Base Multi Device By Zora
 * Please Follow Me On All Sosial Media
-* Instagram : https://instagram.com/Zero_YT7
-* Tiktok : https://tiktok.com/@_zeroyt7
-* Github : https://github.com/Zero-YT7
-* Youtube : https://youtube.com/ZeroYT7
-* Contact Me on wa.me/6285157740529
+* Instagram : https://instagram.com/nozex___
+* Tiktok : https://tiktok.com/@.nozex
+* Github : https://github.com/Zora3mk
+* Youtube : https://youtube.com/VIOEDITING
+* Contact Me on wa.me/961713508i3
 */
 
 /* My Web
@@ -14,7 +14,7 @@
 */
 
 /* Thanks To
-* Zero TT7
+* Zer
 * Dhika Ardiant
 * Mhankbarbar
 * Chaliph
@@ -41,23 +41,23 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-global.owner = ['6285157740529']
-global.premium = ['6285157740529']
-global.botname = 'Z7 BOT'
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
+global.owner = ['96171350883']
+global.premium = ['96171350883']
+global.botname = 'ZoraBot'
+global.packname = 'Zora'
+global.author = 'Zora'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
 success: '✓ Success',
-admin: 'Fitur Khusus Admin Group!',
-botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-owner: 'Fitur Khusus Owner Bot',
-group: 'Fitur Digunakan Hanya Untuk Group!',
-private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-bot: 'Fitur Khusus Pengguna Nomor Bot',
-wait: 'Loading...',
-endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+admin: 'ميزة للادمن فقط!',
+botAdmin: 'لازم اكون ادمن!',
+owner: 'ميزة لزورا و بس.',
+group: 'ميزة تستخدم في القروبات بس!',
+private: 'ميزة تستخدم في الخاص بس!',
+bot: 'ميزات خاصة لمستخدمي البوت',
+wait: 'انتظر قليلا...',
+endLimit: '....',
 }
 global.limitawal = {
 premium: "Infinity",
